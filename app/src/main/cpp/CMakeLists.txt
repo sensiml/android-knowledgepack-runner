@@ -37,7 +37,7 @@ add_library( # Sets the name of the library.
         SHARED
 
         # Provides a relative path to your source file(s).
-        knowledgepack-wrapper.cpp)
+        sensiml_recognition_run.cpp)
 
 target_include_directories(knowledgepack-wrapper
         PRIVATE
